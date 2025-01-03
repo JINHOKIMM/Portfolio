@@ -42,7 +42,7 @@
                 <div class="resume-section-content">
                     <h1 class="mb-0">
                         김
-                        <span class="text-primary">진호</span>
+                        <span class="text-primary">진호d</span>
                     </h1>
                     <div class="subheading mb-5">
                         -------------------
